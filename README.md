@@ -6,7 +6,7 @@
 Web Applicaion Link: [Click](https://accidentpredictor2.herokuapp.com/)
 
 # CHATBOT 
-   In Present trend of Website based Companies ,Automation is the thing going crazy .In this Project a basic Chatbo Have been Developed .
+   In Present trend of Website based Companies ,Automation is the thing going crazy .In this Project a basic Chatbot Have been Developed .
 Gitub Link: [Click](https://github.com/Rohit19990702/Chatbot)
 
 # STOCK ANALYSIS PREDICTION
