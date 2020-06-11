@@ -1,6 +1,4 @@
-# Rohith Kumar P
 
-## Data Science Portfolio
 
 # ACCIDENT RISK PREDICTION SYSTEM
    *This Project is based on how much Percentage the Accident happens for trucks based on their tyre conditions,Overload Capacity etc features.*
@@ -18,6 +16,6 @@
 **Gitub Link: [Click](https://github.com/Rohit19990702/Chatbot)**
 
 # STOCK ANALYSIS PREDICTION
-   *Stock Analysis Prediction has been done over years out of which the Classification type of the Project will have accurate meaning to the Present Stock using Customers.*
+   *Stock Analysis Prediction has been done over years out of which the Classification type of the Project will have accurate meaning to the Present Stock using  Daily News that whether a trading person can be used to increase or decrease the stock.*
 
 **Gitub Link: [Click](https://github.com/Rohit19990702/Stock-Prediction)**
