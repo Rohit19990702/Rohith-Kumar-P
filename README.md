@@ -13,7 +13,7 @@
   **Web Application Link:[click](https://diabetespredictor2.herokuapp.com/)**
 
 # CHATBOT 
-   *In Present trend of Website based Companies ,Automation is the thing going crazy .In this Project a basic Chatbot Have been Developed *.
+   *In Present trend of Website based Companies ,Automation is the thing going crazy .In this Project a basic Chatbot Have been Developed .*
 
 **Gitub Link: [Click](https://github.com/Rohit19990702/Chatbot)**
 
